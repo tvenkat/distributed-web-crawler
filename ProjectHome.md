@@ -1,0 +1,1 @@
+An open source implementation of distributed web crawler that uses hadoop and map reduce
